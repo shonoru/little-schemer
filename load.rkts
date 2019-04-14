@@ -1,0 +1,5 @@
+#lang racket/load
+(load "atom?.rkts")
+
+
+(atom? '())
